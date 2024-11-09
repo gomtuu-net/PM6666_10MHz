@@ -1,4 +1,5 @@
 # 10MHz OCXO for Philips/Fluke PM6666 counter
+Alternative 10MHz oscillator for Philips/Fluke PM6665 and PM6666 frequency counters.
 
 ## Design ideas
 * fuse/PTCC

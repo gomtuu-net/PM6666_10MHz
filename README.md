@@ -1,6 +1,8 @@
 # 10MHz OCXO for Philips/Fluke PM6666 counter
 Alternative 10MHz oscillator for Philips/Fluke PM6665 and PM6666 frequency counters.
 
+[Created with KiCAD ver. 7.0.11](https://kicad.org)
+
 ## Design ideas
 * fuse/PTCC
 * Vref with trim-pot for fine tune (Vc xtal: 0-4V)
@@ -32,16 +34,16 @@ MHz.kHz.Hz
 123.456.789
 
 ## Possible voltage references
-- ADR4540		4.096V	2ppm	Vin: 4.2 - 15V
-* LM4140		4.096V	3ppm	Vin: 5V
-- LT1019-5		5.000V	5ppm
-- LT1021		5.000V	5ppm	Vin: >10V
-- MAX874		4.096V	20ppm	Vin: 4.3 - 20V
-- MAX6070AAUT	4.096V	6ppm	Vin: 4.3 - 5.5V
-- MAX6194A		4.500V	5ppm	Vin: 5 - 12.6V
-* MAX6198A		4.096V	2ppm	Vin: 5 - 12.6V
-- MAX6241		4.096V	5ppm	Vin: 8 - 36V
-- MAX6341		4.096V	2.5ppm	Vin: 8 - 36V
-- MAX6250BESA	5.000V	7ppm	
-- REF5040		4.096V	3ppm	Vin: 4.3 - 18V
+- ADR4540| 4.096V| 2ppm| Vin: 4.2 - 15V
+* LM4140| 4.096V| 3ppm| Vin: 5V
+- LT1019-5| 5.000V| 5ppm
+- LT1021| 5.000V| 5ppm| Vin: >10V
+- MAX874| 4.096V| 20ppm| Vin: 4.3 - 20V
+- MAX6070AAUT| 4.096V| 6ppm| Vin: 4.3 - 5.5V
+- MAX6194A| 4.500V| 5ppm| Vin: 5 - 12.6V
+* MAX6198A| 4.096V| 2ppm| Vin: 5 - 12.6V
+- MAX6241| 4.096V| 5ppm| Vin: 8 - 36V
+- MAX6341| 4.096V| 2.5ppm| Vin: 8 - 36V
+- MAX6250BESA| 5.000V| 7ppm|	
+- REF5040| 4.096V| 3ppm| Vin: 4.3 - 18V
 

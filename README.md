@@ -1,9 +1,11 @@
 # 10MHz OCXO for Philips/Fluke PM6666 counter
 Alternative 10MHz oscillator for Philips/Fluke PM6665 and PM6666 frequency counters.
 
-[Created with KiCAD ver. 7.0.11](https://kicad.org)
+[Schematic](https://github.com/gomtuu-net/PM6666_10MHz/blob/master/PM6666-10MHz.pdf)
 
-![BoardTop 3D](https://github.com/gomtuu-net/PM6666_10MHz/blob/master/PM6666-10MHz-3D-view.png "Board Top 3D")
+![BoardTop 3D](https://github.com/gomtuu-net/PM6666_10MHz/blob/master/PM6666-10MHz-3D-view.jpg "Board Top 3D")
+
+[Created with KiCAD ver. 7.0.11](https://kicad.org)
 
 ## Design ideas
 * fuse/PTCC
